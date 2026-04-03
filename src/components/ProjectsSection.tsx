@@ -31,7 +31,7 @@ const projects = [
   {
     title: "Quiz System with Timer",
     desc: "Interactive quiz platform with countdown timer and score tracking.",
-    url: "https://github.com/While-code-dev/Quiz-Management-System-Python.git",
+    url: "https://github.com/While-code-dev/Quiz-Management-System-Python",
     tags: ["Python"],
   },
   {
