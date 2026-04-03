@@ -13,7 +13,7 @@ const projects = [
   {
     title: "QR Code Generator",
     desc: "Python-based QR code generation tool with customisable output options.",
-    url: "https://github.com/While-code-dev/qr-generator-python.git",
+    url: "https://github.com/While-code-dev/qr-generator-python",
     tags: ["Python"],
   },
   {
