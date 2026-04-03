@@ -19,7 +19,7 @@ const projects = [
   {
     title: "Cafe Management System",
     desc: "Complete management system for cafe operations including orders and billing.",
-    url: "https://github.com/While-code-dev/Cafe-Management-System-python.git",
+    url: "https://github.com/While-code-dev/Cafe-Management-System-python",
     tags: ["Python"],
   },
   {
