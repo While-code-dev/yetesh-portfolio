@@ -6,7 +6,7 @@ const projects = [
   {
     title: "Symptom Risk Analyser",
     desc: "AI-powered tool that analyses symptoms to predict potential health risks using machine learning algorithms.",
-    url: "https://github.com/While-code-dev/Symptom-Risk-Analyzer.git",
+    url: "https://github.com/While-code-dev/Symptom-Risk-Analyzer",
     featured: true,
     tags: ["Python", "ML", "AI"],
   },
