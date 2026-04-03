@@ -37,7 +37,7 @@ const projects = [
   {
     title: "Simple Calendar Generator",
     desc: "Calendar generation utility for any month and year.",
-    url: "https://github.com/While-code-dev/Simple-calender-generator.git",
+    url: "https://github.com/While-code-dev/Simple-calender-generator",
     tags: ["Python"],
   },
   {
