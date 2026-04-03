@@ -43,7 +43,7 @@ const projects = [
   {
     title: "Multiplayer Hangman Game",
     desc: "Classic hangman game with multiplayer functionality for interactive gameplay.",
-    url: "https://github.com/While-code-dev/multiplayer-hangman-game-python.git",
+    url: "https://github.com/While-code-dev/multiplayer-hangman-game-python",
     tags: ["Python", "Game"],
   },
 ];
