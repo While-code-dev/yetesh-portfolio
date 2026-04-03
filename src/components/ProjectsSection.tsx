@@ -25,7 +25,7 @@ const projects = [
   {
     title: "Password Strength Checker",
     desc: "Intelligent password strength analyser with real-time security scoring.",
-    url: "https://github.com/While-code-dev/password-strength-checker.git",
+    url: "https://github.com/While-code-dev/password-strength-checker",
     tags: ["Python", "Security"],
   },
   {
